@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is """Anton Kamyshin""".
+My name is **Anton Kamyshin**.
 
 I am proficient in Python, HTML, CSS, JavaScript in working with preprocessors, builders, libraries, frameworks, Git version control system, etc.
